@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-numpy
-tensorflow
-joblib
-websockets
-scikit-learn
